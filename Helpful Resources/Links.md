@@ -1,2 +1,5 @@
-- [This link](https://medium.com/@deepanshut041/introduction-to-orb-oriented-fast-and-rotated-brief-4220e8ec40cf) leads you to a guide that will get you started on creating a feature extraction model.
+- [Here](https://domino.ai/blog/getting-started-with-open-cv) is a higher level view of the project.
+- [This](https://www.educba.com/opencv-orb/) describes what ORB is and how it works.
+- [This link](https://medium.com/@deepanshut041/introduction-to-orb-oriented-fast-and-rotated-brief-4220e8ec40cf) guides you on getting started with creating a feature extraction model.
 - [This link](https://www.pods.com/blog/moving-trends) provides more context as to the trends among US movers.
+- [Here](https://www.geeksforgeeks.org/feature-matching-using-brute-force-in-opencv/) is another resource for using ORB.
