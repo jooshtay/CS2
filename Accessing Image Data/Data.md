@@ -1,0 +1,3 @@
+- You can download the data set here: https://www.mapillary.com/dataset/places
+- You may need to create an account to access the image data.
+- The Boston images are in the second file: msls_images_vol_1.zip
